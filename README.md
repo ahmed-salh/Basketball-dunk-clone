@@ -20,5 +20,5 @@ https://youtu.be/0UZp7TCdVhc
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/basketball-line-dunk-clone.git
+git clone https://github.com/ahmed-salh/Basketball-dunk-clone.git
 
